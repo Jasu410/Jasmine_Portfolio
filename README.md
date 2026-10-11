@@ -1,35 +1,69 @@
-# Shaik Jasmine — Interactive Portfolio
+# 🌐 Personal Portfolio Website
 
-A premium, light-themed interactive portfolio for Shaik Jasmine, Computer Science Engineering
-graduate and aspiring software engineer. The site is a single scrolling story: an interactive
-3D hero, a custom cursor, a connected skills ecosystem, a scroll-driven internship timeline,
-two animated project showcases (an HRV / 1D-CNN signal visualisation and a railway route with a
-moving train), an education timeline, languages and soft skills, profile links and a working
-contact form.
+Welcome to my personal portfolio repository!
 
-## Tech
+This project showcases my technical skills, academic project, and professional profile as a Computer Science graduate aspiring to become a Software Developer.
 
-- **React 19 + Vite** (plain JavaScript)
-- **React Three Fiber / Three.js** — hero scene, lazy-loaded, paused off-screen, with a CSS fallback when WebGL isn't available
-- **Framer Motion** — scroll-linked progress, text reveals, magnetic buttons, modal transitions
-- **Lucide React** — UI icons (brand marks are inline SVG)
-- **Netlify Forms** — contact form submissions (no custom backend)
+## ✨ Features
 
-## Run locally
+- Professional introduction
+- Technical skills overview
+- Projects showcase
+- Education details
+- Contact information
+- Responsive website design
 
-```bash
-npm install
-npm run dev
-```
+## 🛠️ Technologies Used
 
-To test the contact form with Netlify emulation, use `netlify dev` instead.
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
 
-## Editing content
+*Include only the technologies actually used in this project.*
 
-All copy — profile links, skills, experience, projects, education, languages and soft skills —
-lives in `src/data/content.js`. Update it there; components read from it.
+## 🚀 Getting Started
 
-## Contact form
+To run this project locally:
 
-Submissions appear in the Netlify dashboard under **Forms → contact**. To get emails, add a
-notification under *Project configuration → Notifications → Form submission notifications*.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Jasu410/Portfolio
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd Portfolio
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## 🎯 Purpose
+
+The purpose of this portfolio is to present my skills, projects, and learning journey in software development while connecting with recruiters and potential employers.
+
+## 👩‍💻 About Me
+
+I'm a Computer Science graduate interested in Java development and building practical software applications. I'm continuously improving my programming and problem-solving skills.
+
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/Jasu410
+- **LinkedIn:** https://www.linkedin.com/in/jasminesk41
+
+Thank you for visiting my portfolio repository!
