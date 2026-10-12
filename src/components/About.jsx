@@ -61,8 +61,9 @@ export default function About() {
             <p className="lead">
               I&apos;m <strong>Shaik Jasmine</strong>, a Computer Science Engineering graduate who
               enjoys turning ideas into practical software. My foundation is in Java, SQL and web
-              technologies — and I&apos;ve applied it to everything from a railway reservation system
-              to a deep-learning model that reads stress from heart rate variability.
+              technologies — and I&apos;ve applied my skills to projects including a Railway 
+              Reservation System and a deep-learning-based Stress Detection System using
+              Heart Rate Variability (HRV).
             </p>
             <div className="edu-card glass">
               <div className="edu-card__icon">
